@@ -1,3 +1,4 @@
+# 注意$folder变量不能有中文。folder里面的中文没关系
 $folder1 = "路径1"  
 $folder2 = "路径2"  
 
